@@ -12,8 +12,8 @@
 <h2>Madeline Scott</h2>
 <h3>Description of map </h3>
 <!-- Your map goes here -->
-<a href="./maps/scores.png">
-    <img src="./maps/scores.png" alt="my map" width='500px'>
+<a href="./maps/moose.png">
+    <img src="./maps/moose.png" alt="my map" width='500px'>
     </a>
 
 <!-- Link to your shapefile in Github and you CSV -->
